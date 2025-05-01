@@ -14,7 +14,7 @@ This tool resizes your images to 1200 x 900 pixels and saves them as high-qualit
 1. Double-click on `Adisanskriti_Resizer.exe`
 2. Click the "Select Images" button.
 3. Choose one or more images (PNG, JPG, JPEG, BMP, WebP).
-4. The app will resize all images to 1200x9000 and save them in the `output` folder (in the same directory).
+4. The app will resize all images to 1200x900 and save them in the `output` folder (in the same directory).
 
 🗂️ Where are the resized images?
 Check the "output" folder. It is created automatically.
